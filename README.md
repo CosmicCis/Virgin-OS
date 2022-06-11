@@ -1,2 +1,2 @@
-# Virgin-OS
+# Virgin OS
 Virgin OS
